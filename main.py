@@ -11,7 +11,7 @@ from aiogram.client.default import DefaultBotProperties
 from faker import Faker
 
 # --- Configuration ---
-API_TOKEN = "8332268089:AAE3oVfyhuwVgrXLYHFiNmlEUymR591U6uc"
+API_TOKEN = "Your Bot Token"
 logging.basicConfig(level=logging.INFO)
 
 # --- FSM States ---
